@@ -1,0 +1,1 @@
+Este repositório é referente ao exercício da primeira aula sobre setup de ferramentas. O objetivo é verificar se entendemos como utilizar os comandos do git para fazermos uso do versionamento posteriorimente.
